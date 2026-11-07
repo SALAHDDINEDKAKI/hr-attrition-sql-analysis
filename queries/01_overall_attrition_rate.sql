@@ -1,0 +1,2 @@
+-- Question 1: What is the overall attrition rate?
+-- Tables used: Employee
